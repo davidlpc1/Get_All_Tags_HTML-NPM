@@ -1,0 +1,20 @@
+{
+  "name": "Get_All_Tags_HTML-NPM",
+  "version": "1.0.0",
+  "description": "An package in NPM to get alll tags of html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidlpc1/Get_All_Tags_HTML-NPM.git"
+  },
+  "keywords": [],
+  "author": "“davidlpc1” <“davilucasdlcreator@gmail.com”>",
+  "license": "“MIT”",
+  "bugs": {
+    "url": "https://github.com/davidlpc1/Get_All_Tags_HTML-NPM/issues"
+  },
+  "homepage": "https://github.com/davidlpc1/Get_All_Tags_HTML-NPM#readme"
+}
