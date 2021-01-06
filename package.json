@@ -1,5 +1,5 @@
 {
-  "name": "Get_All_Tags_HTML-NPM",
+  "name": "get-all-tags-html",
   "version": "1.0.0",
   "description": "An package in NPM to get alll tags of html",
   "main": "index.js",
